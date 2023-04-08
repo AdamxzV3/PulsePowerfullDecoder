@@ -1,4 +1,4 @@
-# Decoder
+# Pulse Decoder
 
 🔍 This console application allows you to decode different types of encoded inputs. 
 
