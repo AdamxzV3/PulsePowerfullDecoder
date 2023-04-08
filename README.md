@@ -16,6 +16,8 @@
 
 👉 ASCII Decoder (Decimal) - Decodes an ASCII-encoded input in Decimal format 🟢
 
+👉 Support for Discord Webhook, Sends ouput.txt file to an discord! 🟢
+
 
 ## Examples
 
